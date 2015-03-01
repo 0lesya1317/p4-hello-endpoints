@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 endpoints-skeleton
 ==================
 
@@ -51,3 +52,7 @@ A skeleton application for Google Cloud Endpoints in Java.
 [4]: https://developers.google.com/appengine/docs/java/tools/maven
 [5]: https://localhost:8080/_ah/api/explorer
 [6]: https://console.developers.google.com/
+=======
+# p4-hello-endpoints
+clouds p4 hello-endpoints
+>>>>>>> 8c1bb86d4d7fb2a5f7be1c62c3a2883f8b65cece
