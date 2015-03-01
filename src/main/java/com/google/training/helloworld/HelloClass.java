@@ -11,7 +11,7 @@ public class HelloClass {
     }
 
     public HelloClass(String name, String period){
-    	this.message = " Have a nice "+ period + " " + name + "!";
+    	this.message = " Have a nice "+ period + ", " + name + "!";
     	}
     
     public String getMessage() {
